@@ -10,6 +10,6 @@
 
  <body>
   test
-  <iframe src="http://paper-io.com" width="100%"></iframe>
+  <?php echo 'test2';?>
  </body>
 </html>
